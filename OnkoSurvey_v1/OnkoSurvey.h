@@ -1,0 +1,64 @@
+#pragma once
+
+#ifndef _ONKOSURVEY_H_
+#define _ONKOSURVEY_H_
+
+#define NUMLINES 100
+#define IDC_BUTTON1 11
+#define IDC_BUTTON2 12
+#define IDC_BUTTON3 13
+#define IDC_BUTTON4 14
+#define IDC_BUTTON5 15
+#define IDC_BUTTON6 16
+#define IDC_BUTTON7 17
+#define IDC_BUTTON8 18
+#define IDC_BUTTON9 19
+#define IDC_BUTTON10 20
+#define IDC_BUTTON11 21
+#define IDC_BUTTON12 22
+#define IDC_BUTTON13 23
+#define IDC_BUTTON14 24
+#define IDC_BUTTON15 25
+
+#define IDC_COMBOBOX1 31
+#define IDC_COMBOBOX2 32
+#define IDC_COMBOBOX3 33
+#define IDC_COMBOBOX4 34
+#define IDC_COMBOBOX5 35
+#define IDC_COMBOBOX6 36
+#define IDC_COMBOBOX7 37
+
+#define IDC_GROUPBOX1 101
+#define IDC_EDITTEXT1 201
+#define IDC_EDITTEXT2 202
+
+#define IDC_BUTTON_EVALUATE 300
+
+#define ONKO_LOWER_LIMIT_PRIMARY		24
+#define ONKO_UPPER_LIMIT_INTERMEDIARY	23
+#define ONKO_LOWER_LIMIT_INTERMEDIARY	14
+#define ONKO_UPPER_LIMIT_SECONDARY		13
+#define ONKO_LOWER_LIMIT_SECONDARY		10
+#define ONKO_UPPER_LIMIT_TERTIARY		 9
+#define ONKO_LOWER_LIMIT_TERTIARY		 0
+
+
+
+struct tagButton
+{
+	HWND hwndButton;
+	HDC hdcButton;
+	BOOL bButton = FALSE;
+
+};
+#define NUM_OF_BUTTONS 15
+
+struct tagCombobox
+{
+	HWND hwndComboBox;
+	HDC hdcComboBox;
+	BOOL bInitialRowComboBox = TRUE;
+};
+#define NUM_OF_COMBOS 7
+
+#endif // !_ONKOSURVEY_H_

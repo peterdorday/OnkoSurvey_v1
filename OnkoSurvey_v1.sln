@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OnkoSurvey_v1", "OnkoSurvey_v1\OnkoSurvey_v1.vcxproj", "{B2902D61-5AC0-43E3-B90A-451011CD17E9}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Debug|x64.ActiveCfg = Debug|x64
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Debug|x64.Build.0 = Debug|x64
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Debug|x86.Build.0 = Debug|Win32
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Release|x64.ActiveCfg = Release|x64
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Release|x64.Build.0 = Release|x64
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Release|x86.ActiveCfg = Release|Win32
+		{B2902D61-5AC0-43E3-B90A-451011CD17E9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA93FF33-3AE4-4DD2-A052-9693050F74C9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+﻿  OnkoSurvey.cpp
+OnkoSurvey.cpp(85): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+OnkoSurvey.cpp(315): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+OnkoSurvey.cpp(888): warning C4244: '+=': conversion from 'LRESULT' to 'int', possible loss of data
+OnkoSurvey.cpp(958): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(963): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(964): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(969): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(976): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(981): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(985): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(989): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+OnkoSurvey.cpp(993): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  3 of 14 functions (21.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OnkoSurvey_v1.vcxproj -> C:\Users\dorday.MICROCOMP\Documents\Visual Studio 2015\Projects\OnkoSurvey_v1\x64\Release\OnkoSurvey_v1.exe
+  OnkoSurvey_v1.vcxproj -> C:\Users\dorday.MICROCOMP\Documents\Visual Studio 2015\Projects\OnkoSurvey_v1\x64\Release\OnkoSurvey_v1.pdb (Full PDB)

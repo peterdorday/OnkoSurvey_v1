@@ -1,0 +1,6 @@
+﻿  OnkoSurvey.cpp
+c:\users\dorday.microcomp\documents\visual studio 2015\projects\onkosurvey_v1\onkosurvey_v1\onkosurvey.cpp(75): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+c:\users\dorday.microcomp\documents\visual studio 2015\projects\onkosurvey_v1\onkosurvey_v1\onkosurvey.cpp(305): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+c:\users\dorday.microcomp\documents\visual studio 2015\projects\onkosurvey_v1\onkosurvey_v1\onkosurvey.cpp(878): warning C4244: '+=': conversion from 'LRESULT' to 'int', possible loss of data
+  OnkoSurvey_v1.vcxproj -> C:\Users\dorday.MICROCOMP\Documents\Visual Studio 2015\Projects\OnkoSurvey_v1\x64\Debug\OnkoSurvey_v1.exe
+  OnkoSurvey_v1.vcxproj -> C:\Users\dorday.MICROCOMP\Documents\Visual Studio 2015\Projects\OnkoSurvey_v1\x64\Debug\OnkoSurvey_v1.pdb (Partial PDB)
